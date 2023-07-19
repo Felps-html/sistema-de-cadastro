@@ -5,5 +5,6 @@
 > Para rodar este projeto na sua maquina, por favor digite:
 >
 > ```
-> mpm install react
+> node app.js
 > ```
+
