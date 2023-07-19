@@ -1,0 +1,9 @@
+<h1>Sistema de Cadastro de Jogos</h1>
+
+> Status do projeto: Em desenvolvimento
+>
+> Para rodar este projeto na sua maquina, por favor digite:
+>
+> ```
+> mpm install react
+> ```
